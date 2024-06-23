@@ -1,0 +1,15 @@
+{
+  "name": "trello-api",
+  "version": "1.0.0",
+  "description": "Eryk Code",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eryk",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
