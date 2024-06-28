@@ -41,7 +41,7 @@ const getDetails = async (boardId) => {
 
     delete resBoard.cards
 
-    return board
+    return resBoard
   } catch (error) { throw error }
 }
 
